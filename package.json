@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/jonathanbarzola/asincronismo-js/issues"
   },
-  "homepage": "https://github.com/jonathanbarzola/asincronismo-js#readme"
+  "homepage": "https://github.com/jonathanbarzola/asincronismo-js#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
