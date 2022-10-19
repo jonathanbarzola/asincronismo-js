@@ -5,11 +5,8 @@
 - JavaScript es **asíncrono** y no bloqueante, con un bucle de eventos (concurrencia), implementado con un único hilo para sus interfaces de I/O
 - JavaScript es **Single-Threaded**, aún con múltiples procesadores, solo se puede ejecutar tareas en un solo hilo, llamado hilo principal
 
-<br>
 
 ## Conceptos Importantes:
-
-<br>
 
 ### Bloqueante
     Una tarea no devuelve el control hasta que se ha completado.
@@ -30,15 +27,8 @@
    
     El bucle de eventos es un patrón de diseño que espera y distribuye eventos o mensajes en un programa
 
-<br>
-
----
-
-<br>
 
 ## Formas de manejar la asincronía
-
-<br>
 
 ### Callbacks
     Una función que se pasa como argumento de otra función y que será invocada.
